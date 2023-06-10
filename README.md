@@ -1,6 +1,12 @@
-                                              ### Hi there 👋
-                                              # 💫 About Me:
-I'm currently working on ...I am an experienced Node.js developer with a strong background in building scalable and efficient web applications. I am passionate about creating high-quality code and finding innovative solutions to complex problems. With expertise in various Node.js frameworks and libraries, I strive to deliver robust and maintainable software
+                                              
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.istockphoto.com/id/1126651302/photo/man-with-laptop-sitting-in-the-mountains.jpg?s=612x612&w=0&k=20&c=SNqETbxiRtqJvJk-mBNHkpykW7haElQRakMxT8Lc_3o=)" width="100"/>
+  
+  ### Hi there 👋
+</div>
+
+# 💫 About Me:
+I'm an experienced Node.js developer with a strong background in building scalable and efficient web applications. I'm passionate about creating high-quality code and finding innovative solutions to complex problems. With expertise in various Node.js frameworks and libraries, I strive to deliver robust and maintainable software
 
 
 # 💻 Tech Stack:
