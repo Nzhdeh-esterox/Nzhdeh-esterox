@@ -16,7 +16,7 @@ I'm an experienced Node.js developer with a strong background in building scalab
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nzhdeh-esterox&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzhdeh-esterox&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Nzhdeh-esterox&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
