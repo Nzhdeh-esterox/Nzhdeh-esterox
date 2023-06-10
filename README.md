@@ -1,6 +1,6 @@
                                               
 <div id="header" align="center">
-  <img src="https://media.istockphoto.com/id/1126651302/photo/man-with-laptop-sitting-in-the-mountains.jpg?s=612x612&w=0&k=20&c=SNqETbxiRtqJvJk-mBNHkpykW7haElQRakMxT8Lc_3o=" width="100"/>
+  <img src="https://media.istockphoto.com/id/1126651302/photo/man-with-laptop-sitting-in-the-mountains.jpg?s=612x612&w=0&k=20&c=SNqETbxiRtqJvJk-mBNHkpykW7haElQRakMxT8Lc_3o=" width="300"/>
   
   ### Hi there 👋
 </div>
