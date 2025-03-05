@@ -1,7 +1,7 @@
                                               
 <div id="header" align="center">
   
-  ### Hi there 👋
+  <h1 align="center"> ### Hi there 👋 </h1>
 </div>
 
 I'm Nzhdeh Barseghyan!
