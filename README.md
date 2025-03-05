@@ -4,8 +4,23 @@
   ### Hi there 👋
 </div>
 
-# 💫 About Me:
-I'm an experienced Node.js developer with a strong background in building scalable and efficient web applications. I'm passionate about creating high-quality code and finding innovative solutions to complex problems. With expertise in various Node.js frameworks and libraries, I strive to deliver robust and maintainable software
+👋 Hi, I'm Nzhdeh Barseghyan!
+🚀 Full Stack Developer | Node.js | TypeScript | Nest.js | React.js | SQL | MongoDB
+I am a passionate Full Stack Developer with 5+ years of experience in crafting scalable backend solutions and dynamic front-end applications. My expertise spans across Node.js, Nest.js, Express.js, React.js, Angular, Vue.js, PostgreSQL, MongoDB, and more. I enjoy architecting robust systems, optimizing performance, and integrating AI and automation into modern web applications.
+
+🛠️ Tech Stack
+Backend: Node.js, Nest.js, Express.js, Feathers.js, WebSockets, Rest API
+Frontend: React.js, Angular, Vue.js, TypeScript, HTML/CSS
+Databases: MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, Sequelize
+Testing & Automation: Playwright, Mocha, Jest
+Cloud & DevOps: AWS, Docker, Terraform, Git, CI/CD
+API Integrations: OpenAI API, Stripe API, Google Sheets API, WordPress API
+🔥 What I Do
+✔️ Build and scale backend architectures with security and performance in mind
+✔️ Develop real-time applications using WebSockets and event-driven architectures
+✔️ Automate workflows and integrate AI-powered solutions
+✔️ Craft dynamic front-end experiences with React, Angular, and Vue
+✔️ Optimize database queries and ensure high system availability
 
 
 
