@@ -1,11 +1,11 @@
                                               
 <div id="header" align="center">
   
-  <h1 align="center"> ### Hi there 👋 </h1>
+  <h1 align="center">  Hi there 👋  I'm Nzhdeh Barseghyan! </h1>
 </div>
 
-I'm Nzhdeh Barseghyan!
-🚀 Full Stack Developer | Node.js | TypeScript | Nest.js | React.js | SQL | MongoDB
+
+**🚀 Full Stack Developer | Node.js | TypeScript | Nest.js | React.js | SQL | MongoDB**
 
 I am a passionate Full Stack Developer with 5+ years of experience in crafting scalable backend solutions and dynamic front-end applications. My expertise spans across Node.js, Nest.js, Express.js, React.js, Angular, Vue.js, PostgreSQL, MongoDB, and more. I enjoy architecting robust systems, optimizing performance, and integrating AI and automation into modern web applications.
 
