@@ -4,7 +4,7 @@
   ### Hi there 👋
 </div>
 
-👋 Hi, I'm Nzhdeh Barseghyan!
+I'm Nzhdeh Barseghyan!
 🚀 Full Stack Developer | Node.js | TypeScript | Nest.js | React.js | SQL | MongoDB
 
 I am a passionate Full Stack Developer with 5+ years of experience in crafting scalable backend solutions and dynamic front-end applications. My expertise spans across Node.js, Nest.js, Express.js, React.js, Angular, Vue.js, PostgreSQL, MongoDB, and more. I enjoy architecting robust systems, optimizing performance, and integrating AI and automation into modern web applications.
