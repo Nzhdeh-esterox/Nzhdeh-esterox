@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 I'm an experienced Node.js developer with a strong background in building scalable and efficient web applications. I'm passionate about creating high-quality code and finding innovative solutions to complex problems. With expertise in various Node.js frameworks and libraries, I strive to deliver robust and maintainable software
-- 📫 How to reach me **nzhdeh.barseghyan.up@gmail.com**
+
 
 
 # 💻 Tech Stack:
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me **nzhdeh.barseghyan.up@gmail.com**
